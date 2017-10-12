@@ -1,0 +1,2 @@
+# find all .md files in the current directory and below, replace every g2017000 with g2017999
+find ./ -type f -name \*.md -print0 | xargs -0 sed -i 's/g2017000/g2017999/g'
