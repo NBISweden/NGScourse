@@ -1,1 +1,1 @@
-# Rcourse
+# Introduction to Bioinformatics Using NGS Data
