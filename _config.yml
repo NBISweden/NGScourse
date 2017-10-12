@@ -14,7 +14,7 @@ defaults:
       layout: default
   -
     scope:
-      path: "HT17Uppsala"
+      path: "1710"
     values:
       layout: vt17
 
