@@ -1,0 +1,131 @@
+---
+---
+
+html { color: #222; font-size: 1em; line-height: 1.3em; }
+
+::-moz-selection { background: #b3d4fc; text-shadow: none; }
+::selection { background: #b3d4fc; text-shadow: none; }
+
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade { text-align:center; margin: 0.2em 0; background: #ccc; color: #000; padding: 0.2em 0; }
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body { margin:1em 0; }
+header,footer,main { width:960px; margin:0 auto; box-sizing: border-box;}
+
+header {
+    /* box-shadow: 0 5px 20px -5px rgba(0,0,0,0.75); */
+    background-color:#9AA2AC; color:white;
+    padding:1em;
+    border-radius:1em 1em 0 0;
+    position:relative; z-index:10;
+
+    display:flex; flex-flow: row nowrap; justify-content:center; align-items:center;
+
+    > a {
+	display:inline-block;
+	&:hover { box-shadow: 0 20px 20px -20px rgba(0,0,0,0.75); }
+    }
+    > img { display:inline-block; }
+    span { display:inline-block; margin:0 1em; }
+
+}
+footer {
+    /* box-shadow: 0 -5px 20px -5px rgba(0,0,0,0.75); */
+    background-color:#9AA2AC; color:white;
+    border-radius:0 0 1em 1em;
+    position:relative; z-index:10;
+    text-align:center;
+    padding:1em;
+
+    a {
+	color:white; text-decoration:none;
+	&:hover { text-decoration:underline; }
+    }
+
+}
+
+main {
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75) inset;
+    /* border-right: 1px solid black; */
+    /* border-left: 1px solid black; */
+    padding:1em;
+
+    p { margin-bottom:1em; }
+
+    blockquote {
+	padding: 0 1em;
+	color: #777;
+	border-left: 0.25em solid #ddd;
+    }
+
+    a {
+	color: #4078c0;
+	text-decoration: none; cursor:pointer;
+	&:hover { text-decoration: underline; }
+    }
+
+    ul li {
+	list-style:circle;
+	/* &.active { list-style:"square"; } */
+    }
+
+    h1,h2 { margin-bottom:0.5em; }
+    dl {
+	dt { margin-bottom:1ex; font-weight:bold; }
+	dt:before { content: '\00BB'; margin-right:1ex; }
+	dd { margin-bottom:1em; }
+    }
+
+}
+
+body#error404 main {
+    min-height:320px;
+    padding-top:100px;
+    padding-right:300px;
+    background-image:url('../img/doh.png');
+    background-position:center right;
+    background-repeat:no-repeat;
+}
+
+/* ==========================================================================
+   Media Queries for Responsive Design.
+   Target: iPhone 5
+   ========================================================================== */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+
+    body { margin:0; padding:0; }
+    main,header,footer { width:auto; border-radius:0; }
+    header {
+	justify-content:space-between;
+	> img { width:auto; max-width:50%; }
+	a { width:auto; max-width:50%; }
+    }
+
+    main {
+	box-shadow:0;
+	padding:1ex;
+	h1,h2 { text-align:center; background:black; color:white; padding:0.3em 0; margin-left:-1ex; margin-right:-1ex; }
+
+	blockquote {
+	    color: #777;
+	    border:0; padding:1ex;
+	    /* border: 1px solid #ddd; */
+	    border-radius:3px;
+	    margin:1ex;
+	    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+
+	    p { margin:0; }
+
+	}
+
+    }
+
+}

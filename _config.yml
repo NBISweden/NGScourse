@@ -1,0 +1,55 @@
+###########
+# site.url, site.title
+
+url:   'https://nbisweden.github.io/Rcourse'
+
+#google_analytics: 'UA-23985298-11'
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+  -
+    scope:
+      path: "HT17Uppsala"
+    values:
+      layout: vt17
+
+
+
+########
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+
+sass:
+  sass_dir: css
+  style:    compressed # nested|expanded|compact|compressed
+
+highlighter: rouge
+
+
+# enable vendor prefixes
+gems:
+  - octopress-autoprefixer
+  - jemoji
+#  - autoprefixer-rails
+
+safe: true
+lsi: false
+
+# encoding:     "utf-8"
+# #markdown_ext: "md"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'codehilite'
+
