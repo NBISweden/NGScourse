@@ -2,16 +2,13 @@
 layout: default
 ---
 
-[NBIS](//nbis.se) offers practical courses
-in R programming for the complete novice. It is geared towards life
-scientists and are suitable for researchers in all aspects of life
-sciences.
+[NBIS](//nbis.se) provides this course as an entry-level introduction to a wide range of analytical techniques for massively parallel sequencing, including basic Linux commands. We will pair lectures on the theory of analysis algorithms with practical computational exercises demonstrating the use of common tools for analyzing data from each of several common sequencing study designs.
 
 # Current courses
 
-<dl> <dt> <a href="HT17Uppsala">October 2017</a> </dt>
+<dl> <dt> <a href="1710">2017 October - Lund</a> </dt>
 <dd>
-This course organised by NBIS and Scilifelab and (NBIS).
+This course organised by NBIS and Scilifelab.
 
 </dd>
 
@@ -19,6 +16,6 @@ This course organised by NBIS and Scilifelab and (NBIS).
 
 ## Past courses
 
-* [HT 2017 lund](https://nbisweden.github.io/Rcourse/vt17)
-* [VT 2017 uppsala](https://scilifelab.github.io/courses/r_programming/1703)
-* [HT 2016 uppsala](https://scilifelab.github.io/courses/r_programming/1611/)
+* [2017 September - Lund](https://scilifelab.github.io/courses/ngsintro/1709/)
+* [2017 May - Gothenburg](https://scilifelab.github.io/courses/ngsintro/1705/)
+* [2017 January - Uppsala](https://scilifelab.github.io/courses/ngsintro/1701/)
