@@ -37,7 +37,7 @@ Usually you would do most of the work in this lab directly on one of the login n
 
 ```bash
 # ONLY IF YOU DON'T ALREADY HAVE AN ACTIVE ALLOCATION SINCE BEFORE
-$ salloc -A g2017019 -t 04:30:00 -p core -n 1 --no-shell --reservation=g2017019_1 &
+$ salloc -A g2017024 -t 04:30:00 -p core -n 1 --no-shell --reservation=g2017024_1 &
 ```
 
 check which node you got (replace **username** with your uppmax user name)
@@ -70,13 +70,13 @@ Ex.
 ```bash
 $ cp -r <source> <destination>
 
-$ cp -r /sw/courses/ngsintro/uppmax_tutorial /proj/g2017019/nobackup/<username>
+$ cp -r /sw/courses/ngsintro/uppmax_tutorial /proj/g2017024/nobackup/<username>
 ```
 
-Have a look in **/proj/g2017019/nobackup/\<username\>/uppmax_tutorial**:
+Have a look in **/proj/g2017024/nobackup/\<username\>/uppmax_tutorial**:
 
 ```bash
-$ cd /proj/g2017019/nobackup/<username>/uppmax_tutorial
+$ cd /proj/g2017024/nobackup/<username>/uppmax_tutorial
 
 $ ll
 ```
@@ -247,7 +247,7 @@ This will create a booking for you which has a higher priority than the jobs sub
 Try closing down your current session on the reserved node you connected to in the beginning of the lab by typing exit. Then make a new booking using interactive:
 
 ```bash
-$ interactive -A g2017019 -t 02:00:00 -p core
+$ interactive -A g2017024 -t 02:00:00 -p core
 ```
 
 Congratulations, you are now ready to be let loose on the cluster!

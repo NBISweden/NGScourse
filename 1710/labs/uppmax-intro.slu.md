@@ -32,7 +32,7 @@ Now your screen should look something like this:
 Usually you would do most of the work in this lab directly on one of the login nodes at uppmax since we're not doing anything demanding. To practice what we covered in the lecture, we will ask the queue system to allocate an interactive session for us on one of the calculation nodes. This is a good way to quickly get resources if you want to work with your data interactivly, i.e. to sit and type all the commands manually. This is usually done to just get a feel for the data and do some explorartory analysis, and when you know what you want to do with your samples you will submit jobs to the queue system to do the analysis on all of your samples. To get your own interactive session, 1 core for 5 hours:
 
 ```bash
-$ interactive -A g2017019 -t 05:00:00 -p core -n 1
+$ interactive -A g2017024 -t 05:00:00 -p core -n 1
 ```
 The waiting time for this command should be less than a minute usually. Once you have gotten your session started you will now be connected to a calculation node and you can do whatever you want (within reason) with no risk of disturbing any other users.
 
@@ -60,7 +60,7 @@ You should only have 1 job running, and that is the interactive session you just
 To be able to do parts of this lab, you will need some files. To avoid all the course participants editing the same file all at once, undoing each other's edits, each participant will get their own copy of the needed files. When doing work at uppmax, you will keep all the files belonging to a project in the project's proj folder. To enter the course project's proj folder, simply type
 
 ```bash
-$ cd /proj/g2017019
+$ cd /proj/g2017024
 ```
 
 Have a look around and see which folders there are.
@@ -74,7 +74,7 @@ $ cd nobackup
 
 We can easily see that this is a relative path, since it does not start with a **/** That means that this command will only work when you are standing in your project folder.
 If you are standing somewhere else and say that you want to enter a folder named nobackup, the computer will tell you that there is no folder named nobackup where you are located at the moment.
-The absolute path to the course's nobackup folder would be **/proj/g2017019/nobackup**
+The absolute path to the course's nobackup folder would be **/proj/g2017024/nobackup**
 
 It is the exact same things as if you are using a GUI.
 If you are standing on your desktop, you can double click a folder which is located on your desktop.
@@ -89,14 +89,14 @@ For structures sake, first create a folder named as your username in the course'
 This can be done in 2 ways:
 
 ```bash
-$ mkdir /proj/g2017019/nobackup/<username>
-$ mkdir /proj/g2017019/nobackup/<username>/uppmax_tutorial
+$ mkdir /proj/g2017024/nobackup/<username>
+$ mkdir /proj/g2017024/nobackup/<username>/uppmax_tutorial
 ```
 
 or
 
 ```bash
-$ mkdir -p /proj/g2017019/nobackup/<username>/uppmax_tutorial
+$ mkdir -p /proj/g2017024/nobackup/<username>/uppmax_tutorial
 ```
 
 The reason for this is that Linux will not like it if you try to create the folder uppmax_tutorial inside a folder (the one named like your username) that does not exist yet.
@@ -109,15 +109,15 @@ Ex.
 ```bash
 $ cp -r <source> <destination>
 
-$ cp -r /sw/courses/ngsintro/uppmax_tutorial/* /proj/g2017019/nobackup/<username>/uppmax_tutorial
+$ cp -r /sw/courses/ngsintro/uppmax_tutorial/* /proj/g2017024/nobackup/<username>/uppmax_tutorial
 ```
 
 -r means recursively, which means all the files including sub-folders of the source folder. Without it, only files directly in the source folder would be copied, NOT sub-folders and files in sub-folders.
 
-Have a look in **/proj/g2017019/nobackup/\<username\>/uppmax_tutorial**:
+Have a look in **/proj/g2017024/nobackup/\<username\>/uppmax_tutorial**:
 
 ```bash
-$ cd /proj/g2017019/nobackup/<username>/uppmax_tutorial
+$ cd /proj/g2017024/nobackup/<username>/uppmax_tutorial
 
 $ ll
 ```

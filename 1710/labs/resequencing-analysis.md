@@ -21,7 +21,7 @@ In order to do these exercises, you will need to know a few things.
 By now, you are probably already familiar with the procedure:
 
 ```bash
-salloc -A g2017019 -t 08:00:00 -p core -n 8 --no-shell --reservation=g2017019_wed &
+salloc -A g2017024 -t 08:00:00 -p core -n 8 --no-shell --reservation=g2017024_wed &
 ```
 
 Make sure you ony do this once, otherwise you will take away resources from the other course participants! 
