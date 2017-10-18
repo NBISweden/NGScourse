@@ -5,7 +5,7 @@ title:  'Schedule'
 
 #### Click the heading of a topic to see the lecture slides or lab instructions. Slides are added as the course progresses.
 
-**Monday 23rdof October**
+**Monday 23rd of October**
 Room: BMC I1341 and/or BMC H1023 computer room
 
 **10.00-10.15** [Registration and Welcome, presentation of SciLifeLab] (Elina Staaf, Dag Ahrén)  
@@ -28,11 +28,10 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **12.00-13.00** Lunch  
 **13.00-17:00** [Exercise: NGS workflow part II](labs/NGS_workflow) (Nikolay Oskolkov, Markus Ringnér)  
 
-**18:00-** Course dinner at Kulturkrogen, Tegnérsplatsen 4, 223 50 Lund  
-
 **Thursday 26th**   
-**09.00-11.00** [Lecture: Next Generation Sequencing Overview](slides/Sequencing_OVP2017_b.pdf) (Olga Vinnere Pettersson)  
-**11:00-12.00** [Lecture: NGS and bioinformatics analysis pipelines](slides/SciLife_Bioinfo_course_may2017_AA.ppt) (Olga Vinnere Pettersson)  
+**09.00-11.00** Core Facility Lecture Lund(Stefan Lang) 
+
+**11:00-12.00** Core Facility Lecture Lund(Stefan Lang) 
 **12.00-13.00** Lunch  
 **13.00-14.00** [Lecture: RNA sequencing, transcriptome and expression quantification](slides/Lecture.html) (Dag Ahrén)   
 **14.00-17.00** [Exercise: RNA sequencing, transcriptome and expression quantification part I](labs/RNAseqLab.md) (Dag Ahrén, Markus Ringnér)  
