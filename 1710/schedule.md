@@ -4,6 +4,7 @@ title:  'Schedule'
 ---
 [Home](index)
 
+# Schedule
 #### Click the heading of a topic to see the lecture slides or lab instructions. Slides are added as the course progresses.
 
 **Monday 23rd of October**
