@@ -31,7 +31,7 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **13.00-17:00** Exercise: NGS workflow part II (Nikolay Oskolkov, Markus Ringnér)  
 
 **Thursday 26th**   
-**09.00-11.00** Core Facility Lecture Lund (Stefan Lang) 
+**09.00-11.00** Core Facility Lecture Lund (Stefan Lang)
 **11:00-12.00** Core Facility Lecture Lund (Stefan Lang)
 **12.00-13.00** Lunch  
 **13.00-14.00** Lecture: RNA sequencing, transcriptome and expression quantification (Dag Ahrén)   
