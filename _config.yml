@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "1710"
     values:
-      layout: vt17
+      layout: 1710
 
 
 
