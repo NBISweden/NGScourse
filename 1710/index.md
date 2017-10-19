@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: 1710
 title:  'Introduction to Bioinformatics Using NGS Data - October 2017'
 ---
 
