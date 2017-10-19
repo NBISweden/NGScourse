@@ -13,7 +13,7 @@ title:  'Pre-course Material'
 * [**Chapter 2**](../common/unixtut/unix2.html)  
 
 You must use [http://uppnex.se/emu/](http://uppnex.se/emu/) [(or this mirror)](http://bellard.org/jslinux/) to try the commands in the tutorial, otherwise the commands will not work.
-If you any questions regarding this tutorial contact: martin.dahlo@scilifelab.uu.se
+If you have any questions regarding this tutorial contact: valentin.georgiev@uppmax.se
 
 Using Linux is often the hardest part of the course, so being familiar with writing things on a command-line will help.
 **You should at least go through the exercises (1+2) in the tutorial, no need to know it by heart.**
