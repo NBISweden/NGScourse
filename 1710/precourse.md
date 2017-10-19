@@ -2,7 +2,7 @@
 layout: lund1710
 title:  'Pre-course Material'
 ---
-[Home](index)
+[Back](index)
 
 # Pre-course Material
 
