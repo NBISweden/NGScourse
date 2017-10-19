@@ -9,7 +9,6 @@ title:  'Introduction to Bioinformatics Using NGS Data - October 2017'
 Held in Lund October 23-27, 2017.
 
 ## Important Links
-[Pre-course material](precourse)   
 [Schedule](schedule)  
 
 ## Maps & Travel Info
