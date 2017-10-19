@@ -8,12 +8,12 @@ title:  'Schedule'
 **Monday 23rd of October**
 Room: BMC I1341 and/or BMC H1023 computer room
 
-**10.00-10.15** [Registration and Welcome, presentation of SciLifeLab] (Elina Staaf, Dag Ahrén)  
+**10.00-10.15** [Registration and Welcome, presentation of SciLifeLab] (Elina Staaf, Markus Ringnér)  
 **10.15-11.00** [Lecture: Introduction to Linux](slides/linux-tutorial.pdf) (Valentin Georgiev)  
-**11.00-12.00** [Exercise: Introduction to Linux](labs/linux-intro) (Valentin Georgiev, Dag Ahrén)  
+**11.00-12.00** [Exercise: Introduction to Linux](labs/linux-intro) (Valentin Georgiev, Markus Ringnér)  
 **12.00-13.00** Lunch  
 **13.00-14.00** [Lecture: Introduction to UPPMAX/UPPNEX](slides/UPPMAX-tutorial.pdf) (Valentin Georgiev)  
-**14.00-17.00** [Exercise: Introduction to UPPMAX/UPPNEX](labs/uppmax-intro) (Valentin Georgiev, Dag Ahrén)  
+**14.00-17.00** [Exercise: Introduction to UPPMAX/UPPNEX](labs/uppmax-intro) (Valentin Georgiev, Nikolay Oskolkov)  
 
 **Tuesday 24th**   
 **09.00-09.30** [Lecture: File types in bioinformatics](slides/file_types.pdf) (Valentin Georgiev)  
@@ -29,9 +29,9 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **13.00-17:00** [Exercise: NGS workflow part II](labs/NGS_workflow) (Nikolay Oskolkov, Markus Ringnér)  
 
 **Thursday 26th**   
-**09.00-11.00** Core Facility Lecture Lund(Stefan Lang) 
+**09.00-11.00** Core Facility Lecture Lund (Stefan Lang) 
 
-**11:00-12.00** Core Facility Lecture Lund(Stefan Lang) 
+**11:00-12.00** Core Facility Lecture Lund (Stefan Lang) 
 **12.00-13.00** Lunch  
 **13.00-14.00** [Lecture: RNA sequencing, transcriptome and expression quantification](slides/Lecture.html) (Dag Ahrén)   
 **14.00-17.00** [Exercise: RNA sequencing, transcriptome and expression quantification part I](labs/RNAseqLab.md) (Dag Ahrén, Markus Ringnér)  
