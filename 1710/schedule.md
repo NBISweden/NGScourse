@@ -8,7 +8,7 @@ title:  'Schedule'
 **Monday 23rd of October**
 Room: BMC I1341 and/or BMC H1023 computer room
 
-**10.00-10.15** [Registration and Welcome, presentation of SciLifeLab] (Elina Staaf, Markus Ringnér)  
+**10.00-10.15** [Registration and Welcome, presentation of SciLifeLab] (Christine Karlsson, Markus Ringnér)  
 **10.15-11.00** [Lecture: Introduction to Linux](slides/linux-tutorial.pdf) (Valentin Georgiev)  
 **11.00-12.00** [Exercise: Introduction to Linux](labs/linux-intro) (Valentin Georgiev, Markus Ringnér)  
 **12.00-13.00** Lunch  
