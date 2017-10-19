@@ -16,7 +16,7 @@ Held in Lund October 23-27, 2017.
 ## Helpful Things
 [Linux cheat sheet](../common/images/linux-cheat-sheet.pdf)  
 [UPPMAX cheat sheet](../common/images/uppmax-cheat-sheet.png)  
-[Mac keyboard layout](NGScourse/common/mac-keyboard.md)  
+[Mac keyboard layout](../common/mac-keyboard)  
 
 ## External Resources
 [IGV (Integrative Genomics Viewer) Home](https://www.broadinstitute.org/igv/)  
