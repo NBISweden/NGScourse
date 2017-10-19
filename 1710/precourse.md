@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lund1710
 title:  'Precourse Material'
 ---
 
