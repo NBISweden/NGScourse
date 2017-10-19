@@ -1,6 +1,6 @@
 ---
 menu: home
-layout: vt17
+layout: 1710
 title:  'Introduction to Bioinformatics Using NGS Data - October 2017'
 ---
 
