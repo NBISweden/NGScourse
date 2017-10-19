@@ -7,9 +7,9 @@ title:  'Schedule'
 # Schedule
 #### Click the heading of a topic to see the lecture slides or lab instructions. Slides are added as the course progresses.
 
-**Monday 23rd of October**
 Room: BMC I1341 and/or BMC H1023 computer room
 
+**Monday 23rd of October**
 **10.00-10.15** Registration and Welcome, presentation of SciLifeLab (Christine Karlsson, Markus Ringnér)  
 **10.15-11.00** Lecture: Introduction to Linux (Valentin Georgiev)  
 **11.00-12.00** Exercise: Introduction to Linux (Valentin Georgiev, Markus Ringnér)  
@@ -31,13 +31,15 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **13.00-17:00** Exercise: NGS workflow part II (Nikolay Oskolkov, Markus Ringnér)  
 
 **Thursday 26th**   
-**09.00-11.00** Core Facility Lecture Lund (Stefan Lang)  
-**11:00-12.00** Core Facility Lecture Lund (Stefan Lang)   
+**09.00-11.00** Core Facility Lecture Lund part I (Stefan Lang)  
+**11:00-12.00** Core Facility Lecture Lund part II (Stefan Lang)   
 **12.00-13.00** Lunch   
 **13.00-14.00** Lecture: RNA sequencing, transcriptome and expression quantification (Dag Ahrén)   
 **14.00-17.00** Exercise: RNA sequencing, transcriptome and expression quantification part I (Dag Ahrén, Markus Ringnér)  
 
 **Friday 27th**   
-**09:00-12:00** Exercise: RNA sequencing, transcriptome and expression quantification part II (Dag Ahrén, Markus Ringnér)  
+**09:00-10:00** Lecture: Data management (Niclas Jareborg)  
+**10:30-12:00** Exercise: RNA sequencing, transcriptome and expression quantification part II (Dag Ahrén, Markus Ringnér)  
 **12.00-13.00** Lunch  
-**13:00-15.00** Open discussions (Dag Ahrén, Markus Ringnér)  
+**13:00-13.20** Lecture: The Bioinformatics Infrastructure in Sweden (Niclas Jareborg)  
+**13:20-15.00** Open discussions (Dag Ahrén, Markus Ringnér)  
