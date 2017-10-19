@@ -54,4 +54,4 @@ kramdown:
     css_class: 'codehilite'
 
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
