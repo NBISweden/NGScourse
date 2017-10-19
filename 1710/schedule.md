@@ -2,6 +2,7 @@
 layout: lund1710
 title:  'Schedule'
 ---
+[Home](index)
 
 #### Click the heading of a topic to see the lecture slides or lab instructions. Slides are added as the course progresses.
 
