@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  'Introduction to Bioinformatics Using NGS Data - September 2017'
+title:  'Introduction to Bioinformatics Using NGS Data - October 2017'
 ---
 
 
 # Introduction to Bioinformatics Using NGS Data
 
-Held in Lund September 25-29, 2017.
+Held in Lund October 23-27, 2017.
 
 ## Important Links
 [Pre-course material](precourse)   
@@ -14,8 +14,6 @@ Held in Lund September 25-29, 2017.
 
 ## Maps & Travel Info
 [Map over Lund](https://www.google.se/maps/@55.7043427,13.1955233,14z)  
-[Map over the ecology building](http://www.biology.lu.se/map-over-education-facilities-in-the-ecology-building)  
-[Travel Info](travel)  
 
 ## Helpful Things
 [Linux cheat sheet](../common/images/linux-cheat-sheet.pdf)  
