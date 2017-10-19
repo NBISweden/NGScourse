@@ -1,7 +1,8 @@
 ---
 layout: lund1710
-title:  'Precourse Material'
+title:  'Pre-course Material'
 ---
+[Home](index)
 
 # Pre-course Material
 
