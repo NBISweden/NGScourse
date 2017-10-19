@@ -10,14 +10,13 @@ Held in Lund October 23-27, 2017.
 
 ## Important Links
 [Schedule](schedule)  
-
 ## Maps & Travel Info
 [Map over Lund](https://www.google.se/maps/@55.7043427,13.1955233,14z)  
 
 ## Helpful Things
 [Linux cheat sheet](../common/images/linux-cheat-sheet.pdf)  
 [UPPMAX cheat sheet](../common/images/uppmax-cheat-sheet.png)  
-[Mac keyboard layout](../common/mac-keyboard)  
+[Mac keyboard layout](NGScourse/common/mac-keyboard.md)  
 
 ## External Resources
 [IGV (Integrative Genomics Viewer) Home](https://www.broadinstitute.org/igv/)  
