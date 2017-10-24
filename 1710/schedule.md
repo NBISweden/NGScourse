@@ -22,7 +22,7 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **09.30-12.00** [Exercise: File types in bioinformatics](labs/filetypes) (Valentin Georgiev, Fredrik Levander)  
 **12.00-13.00** Lunch  
 **13:00-14:00** [Lecture: Advanced Linux usage](slides/advanced_linux.pdf) (Valentin Georgiev)  
-**14:00-17:00** Exercise: Advanced Linux usage (Valentin Georgiev, Fredrik Levander)  
+**14:00-17:00** [Exercise: Advanced Linux usage](labs/loops_lab) (Valentin Georgiev, Fredrik Levander)  
 
 **Wednesday 25th**   
 **09:00-10.00** Lecture: NGS workflow (Nikolay Oskolkov)  
