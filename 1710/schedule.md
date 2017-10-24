@@ -25,10 +25,10 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **14:00-17:00** [Exercise: Advanced Linux usage](labs/loops_lab) (Valentin Georgiev, Fredrik Levander)  
 
 **Wednesday 25th**   
-**09:00-10.00** Lecture: NGS workflow (Nikolay Oskolkov)  
-**10:00-12.00** Exercise: NGS workflow part I (Nikolay Oskolkov, Markus Ringnér)  
+**09:00-10.00** [Lecture: NGS workflow](slides/NGS_workflow.pdf) (Nikolay Oskolkov)  
+**10:00-12.00** [Exercise: NGS workflow part I](labs/NGS_workflow) (Nikolay Oskolkov, Markus Ringnér)  
 **12.00-13.00** Lunch  
-**13.00-17:00** Exercise: NGS workflow part II (Nikolay Oskolkov, Markus Ringnér)  
+**13.00-17:00** [Exercise: NGS workflow part II](labs/NGS_workflow) (Nikolay Oskolkov, Markus Ringnér)  
 
 **Thursday 26th**   
 **09.00-11.00** Core Facility Lecture Lund part I (Stefan Lang)  
