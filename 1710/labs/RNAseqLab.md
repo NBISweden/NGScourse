@@ -51,17 +51,17 @@ Reading manuals, trying different tools/options, finding solutions to problems a
 ## Preparing a working directory
 To get going, let's book a node, create a working directory named _transcriptome_ in the _/proj/g2017024/nobackup/<username>/_ directory and link the raw sequencing files .fastq.gz. NB! Remember to replace <username> with your uppmax id throughout the exercise.
 
-:computer: **Book a node.** As for other tutorials in this course we have reserved half a node per person. If you have not done it yet today book a node now as otherwise you will take away resources from your fellow course participants.
+:computer: **Book a node.** As for other tutorials in this course we have reserved 4 cores per person. If you have not done it yet today book a node now as otherwise you will take away resources from your fellow course participants.
 <details>
 <summary>:key: Click to see how to book a node on Thursday</summary>
 {% highlight bash %}
-salloc -A g2017024 -t 08:00:00 -p core -n 8 --no-shell --reservation=g2017024_4 &
+salloc -A g2017024 -t 06:00:00 -p core -n 4 --no-shell --reservation=g2017024_4 &
 {% endhighlight %} 
 </details>  
 <details>
 <summary>:key: Click to see how to book a node on Friday</summary>
 {% highlight bash %}
-salloc -A g2017024 -t 08:00:00 -p core -n 8 --no-shell --reservation=g2017024_5 &
+salloc -A g2017024 -t 08:00:00 -p core -n 4 --no-shell --reservation=g2017024_5 &
 {% endhighlight %} 
 </details>  
 <br />
