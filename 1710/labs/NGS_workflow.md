@@ -18,8 +18,7 @@ But first, lets book a node and set up the programs that we will be using.
 
 ## Book your own node
 
-We have reserved half a node for each student during this course.
-By now, you are probably already familiar with the procedure:
+We have reserved 10 nodes with 16 cores each during this course. So it is best that students use 4 (or maximally 5!) cores each to make sure there are resources for all of you. By now, you are probably already familiar with the procedure:
 
 ```bash
 salloc -A g2017024 -t 04:00:00 -p core -n 4 --no-shell --reservation=g2017024_3 &
