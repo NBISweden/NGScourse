@@ -42,4 +42,4 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **12.00-13.00** Lunch  
 **13:00-14:00** Lecture: Data management (Niclas Jareborg)  
 **14:00-14.15** Lecture: The Bioinformatics Infrastructure in Sweden (Niclas Jareborg)  
-**14:15-16.00** Open discussions (Dag Ahrén, Markus Ringnér, Shamit Soneji, Stefan Lang)  
+**14:15-16.00** Open discussions (Dag Ahrén, Markus Ringnér, Shamit Soneji, Stefan Lang, Per Ludvik Brattås)  
