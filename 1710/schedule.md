@@ -38,8 +38,8 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **14.00-17.00** [Exercise: RNA sequencing, transcriptome and expression quantification part I](labs/RNAseqLab.md) (Dag Ahrén, Markus Ringnér)  
 
 **Friday 27th**   
-**09:00-10:00** Lecture: Data management (Niclas Jareborg)  
-**10:30-12:00** Exercise: RNA sequencing, transcriptome and expression quantification part II (Dag Ahrén, Markus Ringnér)  
+**09:00-12:00** Exercise: RNA sequencing, transcriptome and expression quantification part II (Dag Ahrén, Markus Ringnér)  
 **12.00-13.00** Lunch  
-**13:00-13.20** Lecture: The Bioinformatics Infrastructure in Sweden (Niclas Jareborg)  
-**13:20-15.00** Open discussions (Dag Ahrén, Markus Ringnér)  
+**13:00-14:00** Lecture: Data management (Niclas Jareborg)  
+**14:00-14.15** Lecture: The Bioinformatics Infrastructure in Sweden (Niclas Jareborg)  
+**14:15-16.00** Open discussions (Dag Ahrén, Markus Ringnér, Shamit Soneji, Stefan Lang)  
