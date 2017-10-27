@@ -41,5 +41,5 @@ Room: BMC I1341 and/or BMC H1023 computer room
 **09:00-12:00** Exercise: RNA sequencing, transcriptome and expression quantification part II (Dag Ahrén, Markus Ringnér)  
 **12.00-13.00** Lunch  
 **13:00-13.20** [Lecture: The Bioinformatics Infrastructure in Sweden](slides/NBIS%20NGScourse%202017-10%20Lund.pdf) (Niclas Jareborg)  
-**13:20-14:20** [Lecture: Data management](2017-10-27%20Data%20management%20for%20NGS%20course.pdf) (Niclas Jareborg)  
+**13:20-14:20** [Lecture: Data management](slides/2017-10-27%20Data%20management%20for%20NGS%20course.pdf) (Niclas Jareborg)  
 **14:15-16.00** Open discussions (Dag Ahrén, Markus Ringnér, Shamit Soneji, Stefan Lang, Per Ludvik Brattås)  
